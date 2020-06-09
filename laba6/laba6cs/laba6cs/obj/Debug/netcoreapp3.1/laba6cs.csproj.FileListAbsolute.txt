@@ -1,0 +1,13 @@
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\bin\Debug\netcoreapp3.1\laba6cs.pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba6\laba6cs\laba6cs\obj\Debug\netcoreapp3.1\laba6cs.genruntimeconfig.cache
