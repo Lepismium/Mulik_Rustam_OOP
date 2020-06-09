@@ -1,0 +1,26 @@
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\inheritance\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).genruntimeconfig.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\bin\Debug\netcoreapp3.1\laba5cs(inh).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 1\laba5cs(inh)\laba5cs(inh)\obj\Debug\netcoreapp3.1\laba5cs(inh).genruntimeconfig.cache

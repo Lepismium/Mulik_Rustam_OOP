@@ -1,0 +1,26 @@
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\polymorphysm\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).genruntimeconfig.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).exe
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).deps.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).runtimeconfig.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).runtimeconfig.dev.json
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\bin\Debug\netcoreapp3.1\laba5cs(poly).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).csprojAssemblyReference.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).csproj.CoreCompileInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).AssemblyInfoInputs.cache
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).AssemblyInfo.cs
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).dll
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).pdb
+C:\Учеба\КПИ\Лабы прога\2 семестр\laba5\task 2\laba5cs(poly)\laba5cs(poly)\obj\Debug\netcoreapp3.1\laba5cs(poly).genruntimeconfig.cache
